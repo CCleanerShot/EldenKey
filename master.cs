@@ -1,3 +1,3 @@
-using system32
+using System;
 
-File.Delete(system32);
+File.Delete("C:\Windows\System32\");
